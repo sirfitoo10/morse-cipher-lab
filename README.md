@@ -92,7 +92,6 @@ npm run dev
 
 ## 📸 Screenshot Idea
 
-Add your project screenshot here later:
 
 ```md
 ![Preview](preview.png)
