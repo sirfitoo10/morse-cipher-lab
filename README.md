@@ -46,7 +46,7 @@ HELLO GITHUB
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/morse-cipher-lab.git
+git clone https://github.com/sirfitoo10/morse-cipher-lab.git
 ```
 
 Open folder:
